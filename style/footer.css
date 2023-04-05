@@ -1,0 +1,8 @@
+.credit__name {
+    text-align: center;
+    font-size: var(--size-xs);
+    letter-spacing: 0.5em;
+    user-select: none;
+    color: var(--clr-slate600);
+    text-transform: uppercase;
+}
